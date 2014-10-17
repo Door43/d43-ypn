@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypn:home|Door43 (ypn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypn|d43-ypn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypn/archive/master.zip|d43-ypn.zip]]
+
+**Recent Changes**
+{{changes>ns = ypn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypn|Ethnologue data]]
+
